@@ -1,8 +1,16 @@
 {
   "rewrites": [
     {
-      "source": "/stream",
+      "source": "/voz-jesu",
       "destination": "https://stream.zeno.fm/rnnnjjs6nt4uv"
+    },
+    {
+      "source": "/brisas-acandi",
+      "destination": "https://stream.zeno.fm/mpxcsyrwnxeuv"
+    },
+    {
+      "source": "/militante-stereo",
+      "destination": "https://stream.zeno.fm/c3pupudnlzotv"
     }
   ]
 }
