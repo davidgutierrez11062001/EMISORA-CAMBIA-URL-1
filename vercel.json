@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/stream",
+      "destination": "https://stream.zeno.fm/rnnnjjs6nt4uv"
+    }
+  ]
+}
